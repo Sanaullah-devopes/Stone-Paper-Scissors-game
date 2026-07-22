@@ -54,7 +54,7 @@ img {
   background-color: black;
   color: white;
   font-size: 2rem;
-  display: inline;
+  display: inline-block;
   padding: 1rem;
   border-radius: 1rem;
 }
